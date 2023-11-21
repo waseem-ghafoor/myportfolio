@@ -5,7 +5,7 @@
 
 ### [Bookafy](https://bookafy.com/)
 ![Bookafy.com
-](https://mk0bookafypmfi5ycu96.kinstacdn.com/wp-content/uploads/2020/07/60-Second-Demo-two-1-e1605638335358.png)
+](https://lixatech.com/wp-content/uploads/2023/11/60-Second-Demo-three-5.webp)
 
 Automate your appointment scheduling with Bookafy’s world-class free scheduling software. Get the best scheduling tool, booking system, time-tracking plug-in, and calendar sync software in one easy-to-use scheduling app for Android and iOS.
 
