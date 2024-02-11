@@ -12,7 +12,7 @@ Besides technical expertise, I bring a meticulous attention to detail and strong
 
 ### [Quantified.ai](https://www.quantified.ai/)
 ![https://www.quantified.ai/
-](https://lixatech.com/wp-content/uploads/2023/11/quantified_ai_logo.jpeg)
+](http://lixatech.com/wp-content/uploads/2024/02/quantified_ai_logo.jpeg)
 
 Quantified offers an AI-based learning platform that’s backed by data and behavioral science. Whether you need to transform leaders into influencers, employees into high-performers, or students into real-world success stories, we can help. We have the solutions that transform potential into performance.
 
@@ -28,7 +28,7 @@ Quantified offers an AI-based learning platform that’s backed by data and beha
 
 ### [Bookafy](https://bookafy.com/)
 ![Bookafy.com
-](https://lixatech.com/wp-content/uploads/2023/11/60-Second-Demo-three-5.webp)
+](http://lixatech.com/wp-content/uploads/2024/02/60-Second-Demo-three-5.webp)
 
 Automate your appointment scheduling with Bookafy’s world-class free scheduling software. Get the best scheduling tool, booking system, time-tracking plug-in, and calendar sync software in one easy-to-use scheduling app for Android and iOS.
 
@@ -49,7 +49,7 @@ Automate your appointment scheduling with Bookafy’s world-class free schedulin
 **Built with: Ruby On Rails, Postgresql**
 
 ### [Budgetroot](https://budgetroot.com/)
-![Budgetroot.com](https://lixatech.com/wp-content/uploads/2023/11/budget-root.webp)
+![Budgetroot.com](http://lixatech.com/wp-content/uploads/2024/02/budget-root.webp)
 
 When you are looking for an expense manager, you actually need a budget planner. Managing without a plan will make life harder. BudgetRoot helps you to solve this problem seamlessly.
 
