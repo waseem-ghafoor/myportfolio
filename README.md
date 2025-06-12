@@ -10,6 +10,16 @@ Besides technical expertise, I bring a meticulous attention to detail and strong
 
 ## Projects
 
+### [fusionnowcrm.com](https://www.fusionnowcrm.com/)
+![https://www.fusionnowcrm/
+](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop-Facebook-Post-2.jpg)
+
+Fusion is user-friendly system that integrates seamlessly with email providers like Gmail, Exchange, and SMTP, while leveraging RabbitMQ for real-time data synchronization, presents multiple technical and operational challenges. From managing varying APIs and ensuring secure Single Sign-On (SSO) and user role definitions to enabling personalized templates for communication, each component requires precise implementation. Maintaining security through encrypted authentication and granular role-based access is critical to prevent data breaches. Simultaneously, achieving an intuitive user experience, encouraging adoption through training, and enabling flexible workflow automation based on customer data is essential for maximizing system efficiency. Features such as real-time feedback tracking, lead prioritization, and proactive engagement enhance operational value, but demand consistent synchronization, scalable infrastructure, and thoughtful user-centric design.
+
+**Built with: NextJs, Ruby On Rails, Postgresql, Node.js**
+
+
+
 ### [foodmamaba.com](https://www.foodmamaba.com/)
 ![https://www.foodmamaba.com/
 ](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop-Facebook-Post.jpg)
@@ -38,7 +48,7 @@ Quantified offers an AI-based learning platform that’s backed by data and beha
 
 ### [Bookafy](https://bookafy.com/)
 ![Bookafy.com
-](http://lixatech.com/wp-content/uploads/2024/02/60-Second-Demo-three-5.webp)
+](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop-Facebook-Post-1.jpg)
 
 Automate your appointment scheduling with Bookafy’s world-class free scheduling software. Get the best scheduling tool, booking system, time-tracking plug-in, and calendar sync software in one easy-to-use scheduling app for Android and iOS.
 
