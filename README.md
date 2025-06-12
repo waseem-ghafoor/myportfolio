@@ -29,6 +29,16 @@ Food Mamba revolutionizes catering in downtown Toronto, offering a gateway to lo
 **Built with: NextJs, Ruby On Rails, Postgresql, Node.js**
 
 
+### [claim.alessafirm.com](https://claim.alessafirm.com/)
+![https://claim.alessafirm.com/
+](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop-Facebook-Post-3.jpg)
+
+Provide a complete solution for users to file and manage insurance claims, including support for uploading claim documents and integrating payment gateways. Develop a comprehensive administrator portal with full role-based access control and all necessary permissions for admin users.
+
+**Built with: NextJs, Ruby On Rails, Postgresql, Node.js**
+
+
+
 
 ### [Quantified.ai](https://www.quantified.ai/)
 ![https://www.quantified.ai/
