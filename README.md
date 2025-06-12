@@ -12,7 +12,7 @@ Besides technical expertise, I bring a meticulous attention to detail and strong
 
 ### [foodmamaba.com](https://www.foodmamaba.com/)
 ![https://www.foodmamaba.com/
-](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop.jpg)
+](https://lixatech.com/wp-content/uploads/2025/06/New-Website-Blue-Mockup-Instagram-Laptop-Facebook-Post.jpg)
 
 Food Mamba revolutionizes catering in downtown Toronto, offering a gateway to local restaurants, each with its unique culinary flair. Catering to both private and corporate events, we ensure diverse dietary needs are met with ease. Our platform not only provides specially curated menus from various cuisines but also allows for tailored quotes based on specific event requirements. Enhance your gatherings with our customizable options, including additional services like DJs, bartenders, and more, guaranteeing a seamless, memorable catering experience.
 
